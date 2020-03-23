@@ -1,5 +1,5 @@
 # mediaserver
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive/mediaserver](https://github.com/shroysha/shroysha.github.io/tree/master/archive/mediaserver)
+> see code: [https://github.com/shroysha/mediaserver](https://github.com/shroysha/mediaserver)
 
 ## Description
 null

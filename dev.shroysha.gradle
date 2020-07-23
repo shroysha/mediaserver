@@ -1,2 +1,2 @@
-description = "null"
+description = "Media server interface. Uses self-made plugins to watch videos, listen to music, view pictures. Made as practice."
 version = "1.0-SNAPSHOT"
